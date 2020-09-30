@@ -1,0 +1,3 @@
+name : Gamze Tembel
+occupation : SDET
+objective : to be admired
