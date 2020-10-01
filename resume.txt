@@ -1,4 +1,4 @@
 name : Gamze Tembel
 occupation : SDET
 objective : to be admired
-preferred money : 100 per hour
+preferred money : + 100 per hour
